@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "authors": [
+    "blarrabee <larrabeeblaise@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://www,siliconvalleyacademy.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
